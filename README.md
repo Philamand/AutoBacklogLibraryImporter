@@ -2,7 +2,8 @@
 A simple script that allows you to save your private PlayStation library into a json file, allowing you to import it to your AutoBacklog account without sharing your NPSSO.
 
 ## Run with Astral UV
-Add your NPSSO on line 11, then run `uv run main.py`
+- Add your NPSSO on line 11
+- Run the script `uv run main.py`
 
 ## Run with a python env
 _Requires python 3.10 or higher_
