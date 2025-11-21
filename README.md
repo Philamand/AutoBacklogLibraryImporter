@@ -10,5 +10,5 @@ _Requires python 3.10 or higher_
 - Add your NPSSO on line 11
 - Create a virtual env: `python3 -m venv env`
 - Activate your virtual env: `source env/bin/activate`
-- Install dependency: `pip install PSNAWP httpx`
+- Install dependencies: `pip install PSNAWP httpx`
 - Run the script `python main.py`
