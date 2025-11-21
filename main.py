@@ -23,7 +23,6 @@ def main():
         for game_entitlement in client.game_entitlements():
             print(game_entitlement)
             game_entitlements.append(game_entitlement)
-            break
 
         headers = {
             "apollographql-client-name": "PlayStationApp-Android",
